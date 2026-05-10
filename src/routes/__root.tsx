@@ -79,11 +79,11 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       { property: "og:description", content: "Soares BBR — TikTok, YouTube e Discord. Entre no submundo." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary" },
-      { name: "twitter:site", content: "@SoaresBBR" },
+      { name: "twitter:site", content: "@Lovable" },
       { name: "twitter:title", content: "SOARES BBR — Official" },
       { name: "twitter:description", content: "Soares BBR — TikTok, YouTube e Discord. Entre no submundo." },
-      { property: "og:image", content: "/preview.png" },
-      { name: "twitter:image", content: "/preview.png" },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/5d09c54e-0dc5-4350-bf46-66bdcb7a4286/id-preview-f694f031--fa2b0a4c-d5f0-4d4a-af27-611a0a66e17b.lovable.app-1778447808723.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/5d09c54e-0dc5-4350-bf46-66bdcb7a4286/id-preview-f694f031--fa2b0a4c-d5f0-4d4a-af27-611a0a66e17b.lovable.app-1778447808723.png" },
     ],
     links: [
       {
